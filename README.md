@@ -65,7 +65,8 @@ Cada integrante desarrollará su página de manera individual. Al finalizar, se 
 
 Obtener un sitio web grupal compuesto por tres páginas independientes, cada una con un tema y diseño diferente, conectadas mediante un menú de navegación común.
 
-📚 Conclusión
+Link del ejercicio
+https://tiusr32pl.cuc-carrera-ti.ac.cr/ejercicio_clases/
 
 Este proyecto permitirá reforzar los conocimientos de HTML y CSS, desarrollar la creatividad, mejorar las habilidades de diseño web y fomentar la colaboración y organización del equipo.
 
